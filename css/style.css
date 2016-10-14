@@ -8,8 +8,37 @@
   background-color: gray;
 }
 
-.background {
+.list-group li a {
+    color: white;
+}
+
+.right {
   padding-left: 20px;
   padding-right: 20px;
   text-align: justify;
+  color: black;
+  font-size: 15px;
+}
+
+.well-lg {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.panel-heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.aboutme {
+  font-size: 18px;
+  font-style: italic;
+  color: black;
+}
+
+.myprojects {
+  font-size: 18px;
+  font-style: italic;
 }

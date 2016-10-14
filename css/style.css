@@ -7,3 +7,9 @@
 .list-group li {
   background-color: gray;
 }
+
+.background {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}

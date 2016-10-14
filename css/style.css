@@ -1,0 +1,9 @@
+.myphoto {
+  height: 200px;
+  width: auto;
+  float: right;
+}
+
+.list-group li {
+  background-color: gray;
+}

@@ -65,3 +65,24 @@ footer {
   text-align: center;
   color: white;
 }
+
+.col-md-12 {
+  opacity: 0.7;
+}
+
+.col-md-12 ul li a {
+  border: 5px solid;
+  border-color: #6b5461;
+}
+
+.col-md-9 {
+  opacity: 0.7;
+}
+
+.col-md-3 {
+  opacity: 0.7;
+}
+
+.jumbotron {
+  opacity: 0.7;
+}

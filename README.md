@@ -19,4 +19,9 @@ _{This webpage I created is about my portfolio. It has included list of projects
 * _Bootstrap_
 * _Github_
 
+## Support and contact details
+
+_{You can reach me by email me at Justinjxu@yahoo.com}_
+
+
 Copyright (c) 2016 **_{Justin Xu}_**

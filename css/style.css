@@ -26,6 +26,10 @@
   color: black;
 }
 
+.panel-default > .panel-heading {
+  background-color: #6b727f;
+}
+
 .panel-heading {
   font-size: 30px;
   font-weight: bold;
@@ -48,4 +52,9 @@
 ol {
   margin-left: -20px;
   margin-right: 20px;
+}
+
+.btn {
+  width: 200px;
+  margin: auto;
 }

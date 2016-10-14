@@ -27,18 +27,25 @@
 }
 
 .panel-heading {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
   color: black;
+  text-align: center;
 }
 
 .aboutme {
   font-size: 18px;
   font-style: italic;
   color: black;
+  text-align: center;
 }
 
 .myprojects {
   font-size: 18px;
   font-style: italic;
+}
+
+ol {
+  margin-left: -20px;
+  margin-right: 20px;
 }
